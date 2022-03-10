@@ -1,6 +1,6 @@
 
 Write a program on palindrome, it should accept a statement
-you should find 2  things
+- you should find 2  things
 - Smallest Palindrome String in the Sentence
 - Biggest Palindrome String in the Sentence
 
