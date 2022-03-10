@@ -1,6 +1,3 @@
-# questions
-
-# questions
 
 Write a program on palindrome, it should accept a statement
 you should find 2  things
